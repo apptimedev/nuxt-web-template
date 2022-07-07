@@ -1,4 +1,30 @@
-# vue-nuxt-example
+# Essential Vue/Nuxt web example
+## foruscommunity/vue-nuxt-example
+
+[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+
+---
+
+Application `foruscommunity/vue-nuxt-example` helps you to create a SSR web application project.
+
+---
+
+* [Clone the project](#clone-the-project)
+* [Build Setup](#build-setup)
+* [Special directories](#special-directories)
+* [Used packages](#used-packages)
+* [License](#license)
+
+---
+
+## Clone the project
+
+```sh
+$ git clone https://github.com/foruscommunity/vue-nuxt-example
+$ cd vue-nuxt-example
+```
+
+---
 
 ## Build Setup
 
@@ -66,3 +92,18 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+## Used packages
+
+* [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app): CLI to create Nuxt.js App in seconds.
+* [nuxt/nuxt.js](https://https://github.com/nuxt/nuxt.js): The Intuitive Vue(2) Framework.
+* [nuxt/content](https://https://github.com/nuxt/content): The file-based CMS powered by Markdown.
+* [nuxt-community/i18n-module](https://https://github.com/nuxt-community/i18n-module): i18n localization.
+* [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module): Zero config PWA solution for Nuxt.js.
+* [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js.
+
+---
+
+## License
+
+BSD licensed. See the LICENSE file for details.
