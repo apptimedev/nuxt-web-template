@@ -1,11 +1,11 @@
 # Essential Vue/Nuxt web example
-## foruscommunity/vue-nuxt-example
+## apptimedev/nuxt-web-template
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Apptime](https://apptime.dev/icons/icon-128x128.png)](https://apptime.dev)
 
 ---
 
-Application `foruscommunity/vue-nuxt-example` helps you to create a SSR web application project.
+Application `apptimedev/nuxt-web-template` helps you to create a SSR web application project.
 
 ---
 
@@ -20,8 +20,8 @@ Application `foruscommunity/vue-nuxt-example` helps you to create a SSR web appl
 ## Clone the project
 
 ```sh
-$ git clone https://github.com/foruscommunity/vue-nuxt-example
-$ cd vue-nuxt-example
+$ git clone https://github.com/apptimedev/nuxt-web-template
+$ cd nuxt-web-template
 ```
 
 ---
